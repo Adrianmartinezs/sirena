@@ -1,0 +1,20 @@
+body{background-color: whitesmoke;}
+
+/*Selector universal para aplicar estilos basicos*/
+
+h1{font-family: arial; color: black;}
+
+.img{text-align: center;}
+
+header{ background-color: yellow;
+
+	   line-height: 1.6;
+	   padding: 10px;
+	   margin-bottom: 10px;}
+
+.historia{font-family: arial; text-align: center;}
+
+
+
+
+
